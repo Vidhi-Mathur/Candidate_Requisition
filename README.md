@@ -14,7 +14,7 @@
     ```
 4.  Start server 
     ```bash
-   npm run dev
+    npm run dev
     ```
 
 ## Features added
